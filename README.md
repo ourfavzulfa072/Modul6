@@ -1,4 +1,4 @@
-# Modul6 
+# Modul 6 - UAP
 
 # *Model* 
 menggunakan Model MobileNet, melakukan imagegenerator dengan melakukan 10 epcoh
